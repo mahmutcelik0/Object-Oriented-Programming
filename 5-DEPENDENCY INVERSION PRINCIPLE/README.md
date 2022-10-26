@@ -8,7 +8,6 @@ The above lines simply state that if a high module or class will be dependent mo
 
 EXAMPLE:
 
-()
 
 ```java
 public class WindowsMachine  
