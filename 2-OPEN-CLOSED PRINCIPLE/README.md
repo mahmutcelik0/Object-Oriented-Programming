@@ -1,3 +1,5 @@
+## 2-) Open Closed Principle
+
 *the module should be open for extension but closed for modification*
 
 This principle states that “*software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification*” which means 
